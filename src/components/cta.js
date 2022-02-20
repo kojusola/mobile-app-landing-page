@@ -95,6 +95,7 @@ const Cta = ({ siteTitle }) => (
         display={{ base: "none", xl: "flex" }}
       />
       <Chakra.Box
+        mt="40px"
         width="100%"
         alignItems="center"
         justifyContent="center"
